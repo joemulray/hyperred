@@ -2,7 +2,7 @@
 
 Turns [hyper](https://hyper.is/) red.
 
-<img src="https://cldup.com/iKSFIa2GlW.png" width=500 />
+<img src="img/hyperred.png" width=500 />
 
 ## How to use
 

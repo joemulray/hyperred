@@ -1,7 +1,7 @@
 {
   "name": "hyperred",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "keywords": ["hyper"],
-  "description": "",
+  "description": "Rebranded hyper with red attributes",
   "dependencies": {}
 }
