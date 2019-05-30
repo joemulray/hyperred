@@ -1,5 +1,7 @@
 # hyperred
 
+[![NPM](https://nodei.co/npm/hyperred.png)](https://nodei.co/npm/hyperred/)
+
 Turns [hyper](https://hyper.is/) red.
 
 <img src="https://github.com/joemulray/hyperred/raw/master/img/hyperred.png" width=500 />
